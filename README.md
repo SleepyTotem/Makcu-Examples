@@ -1,4 +1,4 @@
-# 🖱️ MAkCU Button Debugger
+# 🖱️ Makcu Button Debugger
 
 **Version 1.1 - 5/25/25**
 
